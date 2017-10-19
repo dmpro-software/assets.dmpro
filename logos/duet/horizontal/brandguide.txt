@@ -1,0 +1,6 @@
+Main text Font: Rounded Elegance
+Main Font Color HEX: #ffffff
+Slogan Text Font: Avenir Light
+Slogan Font Color HEX: #ffffff
+Monogram Color HEX: #25a6a6
+Monogram Container Color HEX: #ffffff
