@@ -1,0 +1,26 @@
+Fonts:
+
+Main Font: Rounded Elegance
+Slogan Font: Rounded Elegance
+
+Colors:
+
+White (Container)
+
+Hex: #fff
+RGB: rgb(255, 255, 255)
+
+Eastern Blue (Background)
+
+Hex: #25a6a6
+RGB: rgb(37, 166, 166)
+
+Eastern Blue (Main Font)
+
+Hex: #25a6a6
+RGB: rgb(37, 166, 166)
+
+Eastern Blue (Slogan Font)
+
+Hex: #25a6a6
+RGB: rgb(37, 166, 166)

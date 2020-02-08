@@ -1,0 +1,26 @@
+Fonts:
+
+Main Font: Rounded Elegance
+Slogan Font: Rounded Elegance
+
+Colors:
+
+Wild Sand (Container)
+
+Hex: #f7f7f7
+RGB: rgb(247, 247, 247)
+
+Eastern Blue (Background)
+
+Hex: #25a6a6
+RGB: rgb(37, 166, 166)
+
+Eastern Blue (Main Font)
+
+Hex: #25a6a6
+RGB: rgb(37, 166, 166)
+
+Eastern Blue (Slogan Font)
+
+Hex: #25a6a6
+RGB: rgb(37, 166, 166)
